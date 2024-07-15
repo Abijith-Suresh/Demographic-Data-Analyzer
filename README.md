@@ -1,2 +1,19 @@
-# Demographic-Data-Analyzer
-This repository contains a Python function designed to analyze demographic data using Pandas. The dataset used for analysis is extracted from the 1994 Census database.
+# Demographic Data Analyzer
+
+This project is part of my FreeCodeCamp Data Analysis with Python Certification. The Demographic Data Analyzer analyzes demographic data using pandas.
+
+## Features
+- Data manipulation and analysis
+- Statistical insights
+- Python pandas library usage
+
+## Technologies Used
+- Python
+- pandas
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+Happy coding!
